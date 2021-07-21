@@ -1,7 +1,7 @@
 # Algorithm
 Execution of some algorithm ,simple example
 
-1- Compare between The (Depth First Search) DFS & (Breadth First Search) BFS path in (DFS & BFS) File
+1- Compare between The (Depth First Search) DFS & (Breadth First Search) BFS path in (DFS & BFS) powerpoint file
 
 2- MiniMax execution with example
 
